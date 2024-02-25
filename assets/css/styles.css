@@ -408,6 +408,7 @@ img {
 /* ===== WORK =====*/
 .card {
   position: relative;
+  cursor: pointer;
  
 }
 .card_img {
